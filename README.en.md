@@ -10,9 +10,9 @@ Software architecture description
 
 1.  pip install selenium
 2.  install Chrome 
-3.  get from chromedriver (same version with Chrome)
-    https://chromedriver.chromium.org/downloads
-    https://chromedriver.storage.googleapis.com/index.html
+3.  get from chromedriver (same version with Chrome)\
+    https://chromedriver.chromium.org/downloads\
+    https://chromedriver.storage.googleapis.com/index.html\
 
 #### Instructions
 
