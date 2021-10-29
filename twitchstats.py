@@ -6,7 +6,7 @@ import csv
 i = 0
 
 #url = "https://www.twitch.tv/uzra"
-url = "https://www.twitch.tv/never_loses"
+url = "https://www.twitch.tv/lpl"
 driver = webdriver.Chrome()
 driver.maximize_window()
 driver.get(url)
